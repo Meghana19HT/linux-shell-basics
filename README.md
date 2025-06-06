@@ -15,6 +15,18 @@ This project contains a basic shell script written as part of my DevOps learning
 - Permissions and script execution
 
 ---
+## Script: `nodeHealth.sh`
 
+### What it does:
+- Checks disk usage (`df -h`)
+- Displays free memory in GB (`free -g`)
+- Shows number of processors (`nproc`)
+- Script is written in Bash
+
+### Skills Practiced:
+- Debugging with `set -x`
+- System monitoring using Linux commands
+
+---
 👨‍💻 Author: HT  
 🚀 Learning DevOps step by step!# Linux Shell Basics
